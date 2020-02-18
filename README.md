@@ -1,5 +1,6 @@
 
-![npm](https://img.shields.io/npm/v/minecraft-forge-cfg)
+[![npm](https://img.shields.io/npm/v/minecraft-forge-cfg)](https://www.npmjs.com/package/minecraft-forge-cfg)
+![License](https://img.shields.io/npm/l/minecraft-forge-cfg)
 
 # Minecraft Forge cfg parser
 
