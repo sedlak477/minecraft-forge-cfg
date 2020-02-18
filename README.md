@@ -1,3 +1,6 @@
+
+![npm](https://img.shields.io/npm/v/minecraft-forge-cfg)
+
 # Minecraft Forge cfg parser
 
 This package parses `.cfg` files produced by [Minecraft Forge](https://files.minecraftforge.net/).
